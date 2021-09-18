@@ -13,4 +13,4 @@ O artigo trata de analisar como diferentes hábitos de estudos podem impactar, e
 - "No contexto da pesquisa, *thinking-time* é o tempo que o aluno leva para resolver um exercício ou para corrigi-lo antes de fazer uma nova submissão.”
 -	"No contexto da pesquisa, *break-time* é o intervalo de tempo em que um aluno não está realizando atividades relativas à submissão de exercícios, ou seja, não está estudando."
 -	"O tempo total de estudo consiste no somatório dos tamanhos das sessões do aluno ao longo da disciplina. Atividade de estudo, por sua vez, é uma medida que informa a proporção do número de dias em que o aluno registrou pelo menos uma sessão de estudo sobre a duração, em dias, do curso."
--	“Nossa avaliação encontrou uma maior correlação entre o numero de exercícios corretos e a nota final da disciplina.”
+-	“Nossa avaliação encontrou uma maior correlação entre o número de exercícios corretos e a nota final da disciplina.”
